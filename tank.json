@@ -5,7 +5,7 @@
     "type": "Main Battle Tank",
     "year": 1980,
     "crew": 4,
-    "image": "https://example.com/images/m1a2.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/M1A2_SEP_v3.jpg/960px-M1A2_SEP_v3.jpg"
   },
   {
     "name": "Leopard 2A7",
@@ -13,7 +13,7 @@
     "type": "Main Battle Tank",
     "year": 1979,
     "crew": 4,
-    "image": "https://example.com/images/leopard2a7.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Leopard_2_A7V_313_Bad_Frankenhausen_2024.JPG/960px-Leopard_2_A7V_313_Bad_Frankenhausen_2024.JPG"
   },
   {
     "name": "T-14 Armata",
@@ -21,7 +21,7 @@
     "type": "Next-Gen Battle Tank",
     "year": 2015,
     "crew": 3,
-    "image": "https://example.com/images/t14armata.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/VDayRehearsal05052016-28.jpg/960px-VDayRehearsal05052016-28.jpg"
   },
   {
     "name": "Challenger 2",
@@ -29,7 +29,7 @@
     "type": "Main Battle Tank",
     "year": 1998,
     "crew": 4,
-    "image": "https://example.com/images/challenger2.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Challenger_2_Main_Battle_Tank_patrolling_outside_Basra%2C_Iraq_MOD_45148325.jpg/960px-Challenger_2_Main_Battle_Tank_patrolling_outside_Basra%2C_Iraq_MOD_45148325.jpg"
   },
   {
     "name": "Merkava Mk.4",
@@ -37,7 +37,7 @@
     "type": "Main Battle Tank",
     "year": 2004,
     "crew": 4,
-    "image": "https://example.com/images/merkava4.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flickr_-_Israel_Defense_Forces_-_Storming_Ahead.jpg/500px-Flickr_-_Israel_Defense_Forces_-_Storming_Ahead.jpg"
   },
   {
     "name": "Type 10",
@@ -45,7 +45,7 @@
     "type": "Main Battle Tank",
     "year": 2012,
     "crew": 3,
-    "image": "https://example.com/images/type10.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Type10MBT.jpg/960px-Type10MBT.jpg"
   },
   {
     "name": "K2 Black Panther",
@@ -53,7 +53,7 @@
     "type": "Main Battle Tank",
     "year": 2014,
     "crew": 3,
-    "image": "https://example.com/images/k2blackpanther.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/K2_black_panther3.jpg/960px-K2_black_panther3.jpg"
   },
   {
     "name": "Leclerc",
@@ -61,7 +61,7 @@
     "type": "Main Battle Tank",
     "year": 1992,
     "crew": 3,
-    "image": "https://example.com/images/leclerc.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leclerc-openphotonet_PICT6015.JPG/960px-Leclerc-openphotonet_PICT6015.JPG"
   },
   {
     "name": "Type 99A",
@@ -69,7 +69,7 @@
     "type": "Main Battle Tank",
     "year": 2011,
     "crew": 3,
-    "image": "https://example.com/images/type99a.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/ZTZ-99A_MBT_20170716.jpg/960px-ZTZ-99A_MBT_20170716.jpg"
   },
   {
     "name": "Altay",
@@ -77,6 +77,6 @@
     "type": "Main Battle Tank",
     "year": 2023,
     "crew": 4,
-    "image": "https://example.com/images/altay.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Altay_Tank.jpg/960px-Altay_Tank.jpg"
   }
 ]
