@@ -1,0 +1,82 @@
+[
+  {
+    "name": "M1A2 Abrams",
+    "origin": "USA",
+    "type": "Main Battle Tank",
+    "year": 1980,
+    "crew": 4,
+    "image": "https://example.com/images/m1a2.jpg"
+  },
+  {
+    "name": "Leopard 2A7",
+    "origin": "Germany",
+    "type": "Main Battle Tank",
+    "year": 1979,
+    "crew": 4,
+    "image": "https://example.com/images/leopard2a7.jpg"
+  },
+  {
+    "name": "T-14 Armata",
+    "origin": "Russia",
+    "type": "Next-Gen Battle Tank",
+    "year": 2015,
+    "crew": 3,
+    "image": "https://example.com/images/t14armata.jpg"
+  },
+  {
+    "name": "Challenger 2",
+    "origin": "United Kingdom",
+    "type": "Main Battle Tank",
+    "year": 1998,
+    "crew": 4,
+    "image": "https://example.com/images/challenger2.jpg"
+  },
+  {
+    "name": "Merkava Mk.4",
+    "origin": "Israel",
+    "type": "Main Battle Tank",
+    "year": 2004,
+    "crew": 4,
+    "image": "https://example.com/images/merkava4.jpg"
+  },
+  {
+    "name": "Type 10",
+    "origin": "Japan",
+    "type": "Main Battle Tank",
+    "year": 2012,
+    "crew": 3,
+    "image": "https://example.com/images/type10.jpg"
+  },
+  {
+    "name": "K2 Black Panther",
+    "origin": "South Korea",
+    "type": "Main Battle Tank",
+    "year": 2014,
+    "crew": 3,
+    "image": "https://example.com/images/k2blackpanther.jpg"
+  },
+  {
+    "name": "Leclerc",
+    "origin": "France",
+    "type": "Main Battle Tank",
+    "year": 1992,
+    "crew": 3,
+    "image": "https://example.com/images/leclerc.jpg"
+  },
+  {
+    "name": "Type 99A",
+    "origin": "China",
+    "type": "Main Battle Tank",
+    "year": 2011,
+    "crew": 3,
+    "image": "https://example.com/images/type99a.jpg"
+  },
+  {
+    "name": "Altay",
+    "origin": "Turkey",
+    "type": "Main Battle Tank",
+    "year": 2023,
+    "crew": 4,
+    "image": "https://example.com/images/altay.jpg"
+  }
+]
